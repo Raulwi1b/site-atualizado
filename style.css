@@ -1,0 +1,18 @@
+.cabeçalho {
+      background-color: antiquewhite;
+      color: black;
+      display: flex
+      justify-content space-around;
+      align-items:center
+       
+      
+}
+
+.cabeçalho-imagem{
+
+    width: 35%;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
